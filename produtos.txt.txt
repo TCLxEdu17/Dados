@@ -2,3 +2,5 @@ Mouse
 Teclado
 impressora
 monitor
+gabinete 
+pendrive
